@@ -6,7 +6,7 @@ import './ERC20Token.sol';
 contract OPSToken is ERC20Token {
 
     uint256 public constant JointICOBonusAmount = 84000000;
-    address public constant JointICOContractAddress = 0x;
+    address public constant JointICOContractAddress = 0x29eC21157f19F7822432e87ef504D366c24E1D8B;
     address public constant OPSPoolAddress = 0xEA5C0F39e5E3c742fF6e387394e0337e7366a121;
 
     uint256 public  decimalPlace;
